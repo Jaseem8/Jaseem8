@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ITJOBXS**
+- 🔭 I’m currently working on **Chegg**
 
-- 🌱 I’m currently learning **Algorithms ,Data Structures**
+- 🌱 I’m currently learning **Algorithms ,Data Structures and many other technolgies and frameworks**
 
 - 📝 I regularly write articles on [boostweb.blogspot.com](boostweb.blogspot.com)
 
